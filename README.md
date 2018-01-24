@@ -1,2 +1,2 @@
-# marsietrue.github.io
+# marsie.github.io
 Мой первый хостинг
