@@ -7,12 +7,17 @@ img {
 	text-align: center;
 	width: 350px;
 }
-p {
+.text {
 	color: white;
 	font-size: 25px;
 	text-align: center;
 }
 
+.pic {
+	text-align: center;
+}
+
 .footer {
-	font--size: 8px;
+	font-size: 8px;
+	text-align: center;
 }
